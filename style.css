@@ -172,7 +172,7 @@ nav ul li a:hover::after{
 #projects .container h1 {
     text-align: center;
     margin-bottom: 25px;
-    font-weight: 150;
+    font-weight: 300;
 }
 
 .projects-row {
@@ -193,6 +193,7 @@ nav ul li a:hover::after{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-weight: 200;
 }
 
 .munch-to-left {
