@@ -189,6 +189,9 @@ nav ul li a:hover::after{
     margin-bottom: 15px;
 }
 
+#projects p {
+    font-weight: 200;
+}
 .projects-row h2 {
     display: flex;
     justify-content: space-between;
