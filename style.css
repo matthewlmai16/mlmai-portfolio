@@ -336,6 +336,10 @@ img.github-direct
     background-size: cover;
 }
 
+#experience h3 {
+    font-weight: 200;
+}
+
 .design-section {
     display: flex;
     flex-direction: column;
